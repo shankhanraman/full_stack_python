@@ -1,9 +1,3 @@
-Perfect — let’s strip away the emojis and make it more **human, witty, and chai-aur-code style**, like something you’d actually keep in your repo without it looking like a meme dump.
-
-Here’s a more natural README:
-
----
-
 # Full Stack Python – Chai aur Code Edition
 
 This is my repo while learning **Full Stack Python** through Hitesh Choudhary’s *Chai aur Code* course.
