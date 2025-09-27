@@ -9,5 +9,5 @@ refill = infinite_chai()
 for __ in range(5):
     print(next(refill))
 
-for __ in range(6):
-    print(next(user2))
+# for __ in range(6):
+#     #print(next(user2))
