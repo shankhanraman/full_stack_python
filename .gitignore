@@ -1,0 +1,34 @@
+# --- Python Environment ---
+venv/
+ENV/
+env/
+
+# --- Environment Variables ---
+.env
+.env.*
+
+# --- Ignore personal folder ---
+my_personal_project/
+
+# --- Python Cache Files ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Build & Dist Files ---
+build/
+dist/
+*.egg-info/
+
+# --- IDE / Editor Settings ---
+.vscode/
+.idea/
+
+# --- OS-specific Files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+logs/

@@ -16,3 +16,6 @@ def access_tea_inventory(role):
 
 access_tea_inventory("user")
 access_tea_inventory("admin")
+
+# Profiling : measuring the time a function takes to execute
+# python -m cProfile -s time .\08_non_daemon.py   
